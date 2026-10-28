@@ -23,3 +23,5 @@ Sesudah cerita selesai, layar tamat tampil dua detik lalu game bertanya: “Bole
 ## Musik
 
 Tambahkan lagu MP3 bernama `music.mp3` di folder yang sama dengan `index.html`. ZIP tidak menyertakan audio kosong atau lagu berhak cipta.
+
+Untuk menghapus progres lewat ⚙ → **MULAI DARI AWAL**, masukkan kode admin `777766` lalu pilih **HAPUS PROGRES**.
